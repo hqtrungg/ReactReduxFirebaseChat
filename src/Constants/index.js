@@ -1,0 +1,10 @@
+export const LOG_OUT = 'LOG_OUT';
+export const GET_FAVORITE_USER = 'GET_FAVORITE_USER'
+export const SET_FAVORITE_USER = 'SET_FAVORITE_USER'
+export const INBOX_JOINED_IN = 'INBOX_JOINED_IN';
+export const INBOX_LEFT = 'INBOX_LEFT';
+export const SEND_MESSAGE = 'SEND_MESSAGE';
+export const SEND_MESSAGE_ERROR = 'SEND_MESSAGE_ERROR';
+export const ROOM_JOINED_IN = 'ROOM_JOINED_IN';
+export const ROOM_LEFT = 'ROOM_LEFT';
+export const SEARCH_USER = 'SEARCH_USER';
